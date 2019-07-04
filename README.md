@@ -1,5 +1,5 @@
 # data-analysis-numpy
-Numpy exercise along with solutions. Basics of numpy that I covers numpy arrays, indexing, array and slices, operations on numpy arrays.
+Numpy exercise along with solutions. Basics of numpy that covers numpy arrays, indexing, array and slices, operations on numpy arrays.
 
 # About Numpy
 Numpy is the very useful linear algebra library in python and is core for all other libraries.  
